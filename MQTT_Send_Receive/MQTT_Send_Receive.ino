@@ -23,8 +23,8 @@
 
 #include <ArduinoMqttClient.h>
 
-const char ssid[] = "sandbox370"; //enter WiFi network name here
-const char pass[] = "+s0a+s03!2gether?"; //enter WiFi password here
+const char ssid[] = ""; //enter WiFi network name here
+const char pass[] = ""; //enter WiFi password here
 
 //enter broker info: url and port #
 const char broker[] = "public.cloud.shiftr.io";
