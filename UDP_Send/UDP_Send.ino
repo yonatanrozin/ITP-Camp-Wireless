@@ -23,14 +23,14 @@
 
 #include <WiFiUdp.h>
 
-const char ssid[] = "sandbox370"; //enter WiFi network name here
-const char pass[] = "+s0a+s03!2gether?"; //enter WiFi password here
+const char ssid[] = ""; //enter WiFi network name here
+const char pass[] = ""; //enter WiFi password here
 
 WiFiUDP udp;
 
 const int port = 4242; //enter your favorite number to use as port
 
-const char receiverIP[] = "10.23.11.223";
+const char receiverIP[] = "";
 
 void setup() {
   Serial.begin(9600);
